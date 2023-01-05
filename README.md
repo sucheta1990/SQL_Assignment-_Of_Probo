@@ -20,3 +20,6 @@ These users would receive (750, 600 and 150 respectively) - sum is 1500.
 Write down a query for the above settlement process
 
 
+# gievn the table  wirte a query to city and month wise sales:(prveoius month sales,Nextmonth sales and YTD sales)
+![table2](https://user-images.githubusercontent.com/93651638/210726996-adbd093b-b974-4913-a923-5f31eeae0449.PNG)
+
